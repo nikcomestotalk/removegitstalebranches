@@ -1,5 +1,7 @@
 # removegitstalebranches
 Remove stale/old branches that are already merged in master.
+
+
 List Git Stale Branches that are already merged in master
 ./gitstatebranches list
 
